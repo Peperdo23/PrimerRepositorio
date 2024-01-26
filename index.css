@@ -1,0 +1,85 @@
+body {
+    background-color: #b3542c;
+}
+
+header {
+    position: absolute;
+    border-radius: 20px;
+    width: 99%;
+    height: 90px;
+    background-color: #ca8567; 
+}
+
+
+header ul li {
+    float: left;
+    list-style: none;
+    padding: 8px;
+    margin: 1%;
+    border-radius: 5px;
+    background-color: #c77656;
+}
+
+header ul li:hover {
+    background-color: #c26845; 
+}
+
+
+.section1 {
+    align-items: center;
+    border-radius: 20px;
+    position: absolute;
+    top: 120px;
+    width: 20%;
+    background-color: #ca8567;
+}
+
+.section1 h2 {
+    font-size: xx-large;
+    text-align: center;
+}
+
+.section1 h3 {
+    font-size: x-large;
+}
+
+.restaurante {
+    top: 93lvh;
+    text-align: center;
+    position: fixed;
+    width: 99%;
+    height: 50px;
+    border-radius: 20px;
+    background-color: #E89672;
+}
+
+.section2 {
+    position: absolute;
+    padding: 30px;
+    top: 120px;
+    left: 32%;
+    width: 50%;
+    border-radius: 20px;
+    background-color: #ca8567;
+}
+
+.section2 ul{
+    float: left;
+}
+
+.section2 ul li {
+    padding: 10px;
+    margin: 10px;
+    list-style: none;
+    border-radius: 20px;
+    background-color: #c77656;
+}
+
+.section2 ul li:hover {
+    background-color: #c26845;
+}
+
+.section2 ul li img {
+    width: 270px;
+    border-radius: 20px;
+}
